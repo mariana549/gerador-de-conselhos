@@ -21,8 +21,11 @@ Users should be able to:
 - note the js part is still in progress
 
 ### Screenshot
+- desktop
+![](Captura%20de%20tela%20desktop(1).png)
 
-![](./screenshot.jpg)
+- mobile
+![](Captura%20de%20tela%20mobile%20(2).png)
 
 ### Built with
 
@@ -31,4 +34,5 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
+### link
+- [o projeto](#https://mariana549.github.io/gerador-de-conselhos/)
