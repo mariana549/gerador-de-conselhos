@@ -21,10 +21,10 @@ Users should be able to:
 - note the js part is still in progress
 
 ### Screenshot
-- desktop
+- computador
 ![](Captura%20de%20tela%20desktop(1).png)
 
-- mobile
+- celular
 ![](Captura%20de%20tela%20mobile%20(2).png)
 
 ### Built with
