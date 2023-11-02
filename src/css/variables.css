@@ -1,0 +1,8 @@
+:root {
+   --text-color: hsl(193, 38%, 86%);
+   --conselho-dados-cor: hsl(150, 100%, 66%);
+   --conselho-card-cor: hsl(217, 19%, 24%);
+   --background-color: hsl(218, 23%, 16%);
+
+   --font:'Manrope', sans-serif;
+}
