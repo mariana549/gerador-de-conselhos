@@ -5,7 +5,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-  - [link](#project)
+  - [veja o projeto](#project)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
