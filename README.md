@@ -5,11 +5,15 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
+  - [veja o projeto](#project)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
 
 ## Overview
+
+### project
+- [Advice generator](https://gerador-de-conselhos-phi.vercel.app/)
 
 ### The challenge
 
@@ -34,5 +38,3 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-### link
-- [o projeto](https://mariana549.github.io/gerador-de-conselhos/)
