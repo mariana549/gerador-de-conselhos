@@ -21,11 +21,11 @@ Users should be able to:
 - note the js part is still in progress
 
 ### Screenshot
-- computador
-![](Captura%20de%20tela%20desktop(1).png)
+![](./src/images/capturas/laptop-captura-sem-acao.png)
 
-- celular
-![](Captura%20de%20tela%20mobile%20(2).png)
+![](./src/images/capturas/laptop-captura-com-acao.png)
+
+![](./src/images/capturas/telefone-captura.png)
 
 ### Built with
 
